@@ -11,6 +11,10 @@ public class FormTest {
 		
 		jf.setSize(600, 600);
 		jf.setTitle("Test Form");
+		
+		
+		
+		
 		jf.setLayout(null);
 		
 		
